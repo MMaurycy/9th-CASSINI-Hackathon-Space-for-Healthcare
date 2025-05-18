@@ -75,7 +75,7 @@ Projekt Mückenkiller został opracowany przez pełen pasji zespół studentów 
   <img src="./team.png" alt="Zdjęcie Zespołu 1" width="400"/>
 </p>
 <p align="center">
-     <img src="./team_2.png" alt="Zdjęcie Zespołu 2" width="400"/>
+     <img src="./team_2.jpg" alt="Zdjęcie Zespołu 2" width="400"/>
    <\p>
 *(Możecie tu dodać więcej informacji o zespole lub linki do profili, jeśli chcecie)*
 
