@@ -64,21 +64,16 @@ Mückenkiller to system wczesnego ostrzegania i wsparcia decyzji, który:
 ## 🤝 Zespół
 
 Projekt Mückenkiller został opracowany przez pełen pasji zespół studentów z **Koła Naukowego Machine Learning Politechniki Rzeszowskiej**.
-* **Anna Bęben (Data Scientist):** Kieruje rozwojem AI.
-* **Mateusz Grabowski (Geospatial Analyst):** Odpowiada za dane klimatyczne i mapy.
-* **Hubert Mazur (ML Engineer):** Buduje model AI.
-* **Marcin Przybylski (Epidemiologist):** Łączy predykcje z potrzebami zdrowotnymi.
-* **Mateusz Draus (DevOps):** Zarządza konfiguracją serwerów.
-* **Michał Wysocki (Data Scientist):** Modelowanie danych.
-  # Zdjęcia
+* **Anna Bęben:** Kieruje rozwojem AI.
+* **Mateusz Grabowski:** Odpowiada za dane klimatyczne i mapy.
+* **Hubert Mazur:** Buduje model AI.
+* **Marcin Przybylski:** Łączy predykcje z potrzebami zdrowotnymi.
+* **Mateusz Draus:** Zarządza konfiguracją serwerów.
+* **Michał Wysocki:** Modelowanie danych.
 <p align="center">
   <img src="./team.png" alt="Zdjęcie Zespołu 1" width="400"/>
+  <img src="./team_2.jpg" alt="Zdjęcie Zespołu 2" width="400"/>
 </p>
-<p align="center">
-     <img src="./team_2.jpg" alt="Zdjęcie Zespołu 2" width="400"/>
-   <\p>
-*(Możecie tu dodać więcej informacji o zespole lub linki do profili, jeśli chcecie)*
-
 ## 📞 Kontakt
 
 Chcesz dowiedzieć się więcej lub nawiązać współpracę? Skontaktuj się z nami!
