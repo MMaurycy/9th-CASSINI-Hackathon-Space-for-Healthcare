@@ -70,20 +70,18 @@ Projekt Mückenkiller został opracowany przez pełen pasji zespół studentów 
 * **Marcin Przybylski (Epidemiologist):** Łączy predykcje z potrzebami zdrowotnymi.
 * **Mateusz Draus (DevOps):** Zarządza konfiguracją serwerów.
 * **Michał Wysocki (Data Scientist):** Modelowanie danych.
-* Główny kontrybutor GitHub: @gien3k
-
+  # Zdjęcia
 <p align="center">
   <img src="./team.png" alt="Zdjęcie Zespołu 1" width="400"/>
-  <img src="./team_2.png" alt="Zdjęcie Zespołu 2" width="400"/>
 </p>
-
+<p 
+     <img src="./team_2.png" alt="Zdjęcie Zespołu 2" width="400"/>
+   <\p>
 *(Możecie tu dodać więcej informacji o zespole lub linki do profili, jeśli chcecie)*
 
 ## 📞 Kontakt
 
 Chcesz dowiedzieć się więcej lub nawiązać współpracę? Skontaktuj się z nami!
-*(Tutaj możecie podać adres e-mail lub link do strony Koła Naukowego)*
-
 ---
 
 *Dziękujemy za zainteresowanie projektem Mückenkiller! Razem możemy stworzyć bezpieczniejszą przyszłość.*
