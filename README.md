@@ -71,9 +71,10 @@ Projekt Mückenkiller został opracowany przez pełen pasji zespół studentów 
 * **Mateusz Draus:** Zarządza konfiguracją serwerów.
 * **Michał Wysocki:** Modelowanie danych.
 <p align="center">
-  <img src="./team.png" alt="Zdjęcie Zespołu 1" width="400"/>
+  <img src="./team.png" alt="Zdjęcie Zespołu 1" width="400"/> \n
   <img src="./team_2.jpg" alt="Zdjęcie Zespołu 2" width="400"/>
 </p>
+
 ## 📞 Kontakt
 
 Chcesz dowiedzieć się więcej lub nawiązać współpracę? Skontaktuj się z nami!
